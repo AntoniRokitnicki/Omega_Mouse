@@ -45,8 +45,10 @@ setting_head_track_lag = mod.setting(
 def omega_mouse_modifiers_release_function():
     actions.key("ctrl:up")
     actions.key("shift:up")
-    actions.key("alt:up")
+    #comment on mac
+    #actions.key("alt:up")
     actions.key("super:up")
+    #uncommend on mac
     #actions.key("cmd:up")
 
 
