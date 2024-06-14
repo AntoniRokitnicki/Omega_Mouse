@@ -51,7 +51,6 @@ def omega_mouse_modifiers_release_function():
     #uncommend on mac
     #actions.key("cmd:up")
 
-
 # ========== CALLABLE FUNCTIONS ==========
 @mod.action_class
 class OmegaMouseActions:
